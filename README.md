@@ -1,3 +1,5 @@
 # Nameless Java Password Manager
  
-This is a password manager written in Java, you are free to use it for whatever you like.
+This is a password manager written in Java.
+
+It uses the JavaFX library for the GUI
