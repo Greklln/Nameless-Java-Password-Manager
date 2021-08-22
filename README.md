@@ -1,5 +1,3 @@
-# Nameless Java Password Manager
+# Skjold Password Manager
  
-This is a password manager written in Java.
-
-It uses the JavaFX library for the GUI
+This is a password manager written in C#.
